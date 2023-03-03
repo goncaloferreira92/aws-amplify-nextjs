@@ -1,3 +1,6 @@
+## Note to self: Gonçalo 
+This is an experiment that I am taking from this YouTube tutorial: https://www.youtube.com/watch?v=0-uT3wlXn-w
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
